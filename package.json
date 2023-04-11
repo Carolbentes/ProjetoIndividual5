@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "node": "^19.8.1",
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module"
+}
