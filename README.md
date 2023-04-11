@@ -1,4 +1,4 @@
-# <div align="center"> Projeto Individual do Módulo 5
+# <div align="center">:arrow_upper_right: Projeto Individual do Módulo 5
   
 ## <div align="center">:arrow_right:  OBJETIVO
 ### 💡 Criar ferramenta no terminal para auxiliar desenvolvedores no dia a dia com CSS
