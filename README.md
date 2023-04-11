@@ -9,7 +9,7 @@
   
 ## <div align="center"> Como acessar o projeto:question:
   
-:red_circle: Clone o repositório :arrow_right:
+:red_circle: Clone o repositório :arrow_right:https://github.com/Carolbentes/ProjetoIndividual5
 
 :green_circle: Instale as dependências do projeto usando os comandos a seguir:
 ```
