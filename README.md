@@ -7,11 +7,11 @@
 
 › O código deve rodar em um laço que vai receber propriedades até a pessoa digitar a palavra “SAIR”, quando isso acontecer vai ser impresso no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
   
-## <div align="center">:question: Como acessar o projeto?
+## <div align="center"> Como acessar o projeto:question:
   
-› Clone o repositório 
+:red_circle: Clone o repositório :arrow_right:
 
-› Instale as dependências do projeto usando os comandos a seguir:
+:green_circle: Instale as dependências do projeto usando os comandos a seguir:
 ```
 npm i readline-sync
 ```
@@ -28,3 +28,11 @@ node app.js
   
       
  ### Exemplo:
+![5](https://user-images.githubusercontent.com/116572521/231077732-7f7d0562-8f56-420d-b617-afd0cd860559.png)
+  
+  # <div align="center"> Tecnologias utilizadas
+   <div align="center"><br>
+  <img alt="JavaScript" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img alt="NodeJS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <br>
+    
+
