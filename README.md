@@ -1,7 +1,7 @@
 # <div align="center">:arrow_upper_right: Projeto Individual do Módulo 5
   
 ## <div align="center">:arrow_right:  OBJETIVO
-### 💡 Criar ferramenta no terminal para auxiliar desenvolvedores no dia a dia com CSS
+### :heavy_multiplication_x: Criar ferramenta no terminal para auxiliar desenvolvedores no dia a dia com CSS
 
 › O objetivo é montar um código que vai receber uma lista de propriedades de CSS (ex: padding, background, width, border) e vai devolver essa lista ordenada de A-Z. Ordenando os códigos de CSS ajudará a encontrar mais rápido a propriedade que precisamos alterar.
 
