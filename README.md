@@ -9,7 +9,7 @@
   
 ## <div align="center">📋 Como acessar o projeto?
   
-› Clone o repositório https://github.com/manuandrade-crf/ProjetoIndividual_Mod5/
+› Clone o repositório 
 
 › Instale as dependências do projeto usando os comandos a seguir:
 ```
